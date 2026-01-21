@@ -21,6 +21,11 @@ The core objective is to help organizational leaders manage their supermarkets m
 6. **Synthetic Insight Generation:** Automatically generates ratings and reviews based on product performance and sales volume.
 7. **Exploratory Data Analysis (EDA):** Detailed visualizations including total sales by group and sales distributions.
 
+Install Requirements:
+Bash
+
+`pip install -r requirements.txt`
+
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
    ```bash
